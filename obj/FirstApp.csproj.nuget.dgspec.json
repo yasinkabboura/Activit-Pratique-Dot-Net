@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DeLL\\Music\\GLSID S5\\Patterns\\dotnetClass\\FirstApp\\FirstApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DeLL\\Music\\GLSID S5\\Patterns\\dotnetClass\\FirstApp\\FirstApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DeLL\\Music\\GLSID S5\\Patterns\\dotnetClass\\FirstApp\\FirstApp.csproj",
+        "projectName": "FirstApp",
+        "projectPath": "C:\\Users\\DeLL\\Music\\GLSID S5\\Patterns\\dotnetClass\\FirstApp\\FirstApp.csproj",
+        "packagesPath": "C:\\Users\\DeLL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DeLL\\Music\\GLSID S5\\Patterns\\dotnetClass\\FirstApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DeLL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
