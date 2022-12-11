@@ -11,9 +11,9 @@ namespace Service{
             return accounts[id];
         }
         public List<Account> GetDebitedAccounts(){
-            List<Account> listAccounts = accounts.Values.ToList();
             List<Account> DebitedAccounts = new List<Account>();
-            foreach (Account acc in listAccounts) {
+            
+            foreach (Account acc in accounts.Values) {
                 if(acc.Balance<0){
                     DebitedAccounts.Add(acc);
                 }
